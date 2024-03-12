@@ -16,4 +16,4 @@ $ python3 better_canvas.py
 BetterCanvas will walk you through the quickstart.
 
 ## License
-See `LICENSE`
+See `LICENSE`.
