@@ -1,3 +1,6 @@
+<p align="center"><img src="https://github.com/nathanbronson/BetterCanvas/blob/main/logo.jpg?raw=true" alt="logo" width="200"/></p>
+
+_____
 # BetterCanvas
 an intelligent Canvas command-line client
 
