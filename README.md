@@ -14,4 +14,4 @@ BetterCanvas was developed in 2020 and has not been maintained since. As of 2024
 BetterCanvas will walk you through the quickstart.
 
 ## License
-See LICENSE
+See `LICENSE`
