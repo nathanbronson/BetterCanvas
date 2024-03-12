@@ -7,7 +7,7 @@ BetterCanvas is an integration with the Canvas LMS. It was developed to address 
 BetterCanvas was developed in 2020 and has not been maintained since. As of 2024, the app remains functional. It could, however, fail or become obsolete at any time. Use it with these advisories in mind.
 
 ## Usage
-`$ python3 better_canvas.py`
+`$ python3 better_canvas.py` \
 BetterCanvas will walk you through the quickstart.
 
 ## License
